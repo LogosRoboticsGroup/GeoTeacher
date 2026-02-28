@@ -1,6 +1,18 @@
-# GeoTeacher
-> Geometry-Guided Semi-Supervised 3D Object Detection  
-> [ICRA 2026]
+
+<h1>GeoTeacher</h1>
+<h3>GeoTeacher:Geometry-Guided Semi-Supervised 3D Object Detection /h3>
+
+[Jingyu Li](https://sii-whaleice.github.io/)<sup>1,2\*</sup>, Xiaolong Zhao<sup>3\*</sup>, Zhe Liu<sup>4</sup>, Wenxiao Wu<sup>5,2</sup>, [Li Zhang](https://lzrobots.github.io/)<sup>1,2✉</sup>  
+
+<sup>1</sup>Fudan University  <sup>2</sup>Shanghai Innovation Institute
+<sup>3</sup> Tongji University <sup>4</sup> Hong Kong University <sup>5</sup> Huazhong University of Science and Technology
+
+(\*) Equal contribution. (✉) Corresponding author.  
+
+ICRA 2026
+
+<a href="[https://arxiv.org/abs/2512.23147](https://arxiv.org/abs/2512.23147)"><img src='https://img.shields.io/badge/arXiv-GeoTeacher-red' alt='Paper PDF'></a>
+</div>
 
 🔥 Official implementation of **GeoTeacher**
 
@@ -30,14 +42,6 @@ It leverages geometric consistency between teacher and student models to improve
   <img src="assets/pipeline.png" width="80%">
 </p>
 
-
-### Qualitative Results
-
-<p align="center">
-  <img src="assets/results.png" width="80%">
-</p>
-
----
 
 ## 🚀 Installation
 
