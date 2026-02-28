@@ -1,4 +1,4 @@
-
+<div align="center">
 <h1>GeoTeacher</h1>
 <h3>GeoTeacher:Geometry-Guided Semi-Supervised 3D Object Detection /h3>
 
