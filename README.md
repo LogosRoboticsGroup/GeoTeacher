@@ -16,6 +16,13 @@ ICRA 2026
 
 🔥 Official implementation of **GeoTeacher**
 
+
+## Notice
+
+This repository is no longer actively maintained, as our research focus has shifted away from semi-supervised 3D object detection.
+If you are interested in this project or require access to related code, please feel free to contact the authors via email.
+
+
 ---
 
 ## 📢 News
